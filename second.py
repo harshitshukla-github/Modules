@@ -1,2 +1,2 @@
 
-print("Hello World two!!")
+a_variable: str = "Hello World two!!"

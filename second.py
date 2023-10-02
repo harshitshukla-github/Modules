@@ -1,2 +1,3 @@
+from typing import Final
 
-a_variable: str = "Hello World two!!"
+a_variable: Final[str] = "Hello World two!!"
